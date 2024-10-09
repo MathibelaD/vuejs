@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Web Development for E-Commerce",
+      "description": "Build a fully functional e-commerce website using the latest technologies.",
+      "techStack": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+      "owner": {
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Development",
+      "description": "Create a mobile application for both Android and iOS platforms.",
+      "techStack": ["Flutter", "Dart", "Firebase"],
+      "owner": {
+        "name": "John Smith",
+        "email": "john@example.com",
+        "phone": "987-654-3210"
+      }
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design for Startup",
+      "description": "Design an intuitive user interface for a new startup.",
+      "techStack": ["Figma", "Adobe XD"],
+      "owner": {
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "phone": "555-123-4567"
+      }
+    }
+  ]
+  
