@@ -5,10 +5,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <div>Hello World</div>
+    <div class="bg-red-200">Hello World</div>
   </header>
 
   <!-- <RouterView /> -->
 </template>
-
-
